@@ -1,0 +1,15 @@
+C:\Data\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
+C:\Data\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.exe
+C:\Data\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.pdb
+C:\Data\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
+C:\Data\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.exe
+C:\Data\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
+C:\Data\Projects\SampleApp\SampleApp\bin\Debug\EntityFramework.dll
+C:\Data\Projects\SampleApp\SampleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data\Projects\SampleApp\SampleApp\bin\Debug\EntityFramework.xml
+C:\Data\Projects\SampleApp\SampleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.Migrations.initialnew.resources
+C:\Data\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.GenerateResource.Cache
+C:\Data\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.Migrations.t.resources
+C:\Data\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.Migrations.parentDataset.resources
+C:\Data\Projects\SampleApp\SampleApp\obj\Debug\SampleApp.Migrations.nullableKey.resources
